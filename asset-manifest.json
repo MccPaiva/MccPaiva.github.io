@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f8ae1f2.css",
+    "main.js": "/static/js/main.cb3c9198.js",
+    "static/media/2.png": "/static/media/2.dd32b2e37c7e10fdb8a8.png",
+    "static/media/CVPT.pdf": "/static/media/CVPT.b1399316970337d93782.pdf",
+    "static/media/cassannet_plus_regular-webfont.woff": "/static/media/cassannet_plus_regular-webfont.4643f6aa2d10c4064db7.woff",
+    "static/media/CoventryGarden.ttf": "/static/media/CoventryGarden.27673bbf9d92cebffde4.ttf",
+    "static/media/cassannet_plus_regular-webfont.woff2": "/static/media/cassannet_plus_regular-webfont.d3046e19b600711e62c9.woff2",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.66b3a582ff259868259008590d8439c3.svg",
+    "main.2f8ae1f2.css.map": "/static/css/main.2f8ae1f2.css.map",
+    "main.cb3c9198.js.map": "/static/js/main.cb3c9198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f8ae1f2.css",
+    "static/js/main.cb3c9198.js"
+  ]
+}
