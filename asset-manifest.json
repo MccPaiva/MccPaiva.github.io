@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec2a89a3.css",
+    "main.css": "/static/css/main.26904853.css",
     "main.js": "/static/js/main.67ea7fff.js",
     "static/media/CVPT.pdf": "/static/media/CVPT.b1399316970337d93782.pdf",
     "static/media/cassannet_plus_regular-webfont.woff": "/static/media/cassannet_plus_regular-webfont.4643f6aa2d10c4064db7.woff",
@@ -9,11 +9,11 @@
     "static/media/waves.svg": "/static/media/waves.5c1c2d9d848da7b88830.svg",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.66b3a582ff259868259008590d8439c3.svg",
-    "main.ec2a89a3.css.map": "/static/css/main.ec2a89a3.css.map",
+    "main.26904853.css.map": "/static/css/main.26904853.css.map",
     "main.67ea7fff.js.map": "/static/js/main.67ea7fff.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec2a89a3.css",
+    "static/css/main.26904853.css",
     "static/js/main.67ea7fff.js"
   ]
 }
