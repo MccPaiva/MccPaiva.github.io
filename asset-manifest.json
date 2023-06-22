@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6c9f41a.css",
-    "main.js": "/static/js/main.8434b603.js",
+    "main.css": "/static/css/main.4937d2b6.css",
+    "main.js": "/static/js/main.fcecfda8.js",
+    "static/media/eu3.jpg": "/static/media/eu3.df6826a972ddf2c9d2f2.jpg",
     "static/media/juntossomos.PNG": "/static/media/juntossomos.f24525526bd4fa39044a.PNG",
     "static/media/CVPT.pdf": "/static/media/CVPT.b1399316970337d93782.pdf",
     "static/media/cassannet_plus_regular-webfont.woff": "/static/media/cassannet_plus_regular-webfont.4643f6aa2d10c4064db7.woff",
@@ -11,11 +12,11 @@
     "static/media/waves2.svg": "/static/media/waves2.c62a1f411bce6b4d74c0.svg",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.66b3a582ff259868259008590d8439c3.svg",
-    "main.f6c9f41a.css.map": "/static/css/main.f6c9f41a.css.map",
-    "main.8434b603.js.map": "/static/js/main.8434b603.js.map"
+    "main.4937d2b6.css.map": "/static/css/main.4937d2b6.css.map",
+    "main.fcecfda8.js.map": "/static/js/main.fcecfda8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6c9f41a.css",
-    "static/js/main.8434b603.js"
+    "static/css/main.4937d2b6.css",
+    "static/js/main.fcecfda8.js"
   ]
 }
