@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d5a16ca.css",
-    "main.js": "/static/js/main.2f9eea7f.js",
+    "main.css": "/static/css/main.91b0d892.css",
+    "main.js": "/static/js/main.1d42c7d0.js",
+    "static/media/portfoliotiago.png": "/static/media/portfoliotiago.0b38f7ed07682df5ffb1.png",
+    "static/media/portfoliotiagomobile.png": "/static/media/portfoliotiagomobile.90054426f93ed35482b7.png",
     "static/media/juntossomosmobile.png": "/static/media/juntossomosmobile.31a52cd93638ac0676d2.png",
     "static/media/eu3.jpg": "/static/media/eu3.df6826a972ddf2c9d2f2.jpg",
     "static/media/juntossomos.PNG": "/static/media/juntossomos.f24525526bd4fa39044a.PNG",
@@ -13,11 +15,11 @@
     "static/media/waves2.svg": "/static/media/waves2.c62a1f411bce6b4d74c0.svg",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.66b3a582ff259868259008590d8439c3.svg",
-    "main.7d5a16ca.css.map": "/static/css/main.7d5a16ca.css.map",
-    "main.2f9eea7f.js.map": "/static/js/main.2f9eea7f.js.map"
+    "main.91b0d892.css.map": "/static/css/main.91b0d892.css.map",
+    "main.1d42c7d0.js.map": "/static/js/main.1d42c7d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d5a16ca.css",
-    "static/js/main.2f9eea7f.js"
+    "static/css/main.91b0d892.css",
+    "static/js/main.1d42c7d0.js"
   ]
 }
